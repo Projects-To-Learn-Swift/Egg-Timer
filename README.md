@@ -1,4 +1,4 @@
-## What you will learn
+## What I learned
 
 * Swift Collection types - Dictionaries
 * The Swift Timer API
